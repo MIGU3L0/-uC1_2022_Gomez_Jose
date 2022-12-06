@@ -1,4 +1,4 @@
-# -uC1_2022_Gomez_Jose
+# uC1_2022_Gomez_Jose
 
 *Curso:* Microcontroladores I
 
