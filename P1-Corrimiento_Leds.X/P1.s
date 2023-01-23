@@ -1,3 +1,8 @@
+;Practica 1:
+;nombre: Jose Miguel Gomez Sanchez
+;fecha 14/01/23
+;Descripcion: P1.s
+;	      corrimiento de leds
 PROCESSOR 18F57Q84
 #include "bit_config.inc"     /*config statements should precede project file includes.*/
 #include "delays.inc" 

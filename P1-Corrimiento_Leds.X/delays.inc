@@ -1,3 +1,8 @@
+;Practica 1:
+;nombre: Jose Miguel Gomez Sanchez
+;fecha 14/01/23
+;Descripcion: delays.s
+;	      libreria de corrimiento de leds
 PSECT udata_acs 
 contador1: DS 1		    ;reserva el byte en access Ram
 contador2: DS 1		    ;reserva el byte en access Ram
