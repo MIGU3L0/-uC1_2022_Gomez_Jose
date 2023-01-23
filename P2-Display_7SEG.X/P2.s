@@ -1,3 +1,8 @@
+;Practica 2:
+;nombre: Jose Miguel Gomez Sanchez
+;fecha 14/01/23
+;Descripcion: P2.s
+;	      display de  segmentos
 PROCESSOR 18F57Q84
 #include "bit_config.inc"  /*config statements should precede project file includes.*/
 #include <xc.inc>
